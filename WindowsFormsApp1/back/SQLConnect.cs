@@ -23,7 +23,7 @@ namespace back
 
         public SQLConnect()
         {
-            connetionString = "Server=tcp:dv-server1234567.database.windows.net,1433;Initial Catalog=DVchoc;Persist Security Info=False;User ID={your_username};Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
+            connetionString = "Data Source=tcp:dv-server1234567.database.windows.net;Initial Catalog=DVchoc;Persist Security Info=True;User ID=andredev1234567;Password=Kooler1234567 Timeout=30;";
             connection = new SqlConnection(connetionString);
         }
 

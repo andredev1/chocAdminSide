@@ -16,3 +16,9 @@ E:\WindowsFormsApp1\ExcelLibrary\obj\Debug\ExcelLibrary.csprojAssemblyReference.
 E:\WindowsFormsApp1\ExcelLibrary\obj\Debug\ExcelLibrary.csproj.CoreCompileInputs.cache
 E:\WindowsFormsApp1\ExcelLibrary\obj\Debug\ExcelLibrary.dll
 E:\WindowsFormsApp1\ExcelLibrary\obj\Debug\ExcelLibrary.pdb
+C:\Users\andre\Documents\chocAdminSide\WindowsFormsApp1\ExcelLibrary\bin\Debug\ExcelLibrary.dll
+C:\Users\andre\Documents\chocAdminSide\WindowsFormsApp1\ExcelLibrary\bin\Debug\ExcelLibrary.pdb
+C:\Users\andre\Documents\chocAdminSide\WindowsFormsApp1\ExcelLibrary\obj\Debug\ExcelLibrary.csprojAssemblyReference.cache
+C:\Users\andre\Documents\chocAdminSide\WindowsFormsApp1\ExcelLibrary\obj\Debug\ExcelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\chocAdminSide\WindowsFormsApp1\ExcelLibrary\obj\Debug\ExcelLibrary.dll
+C:\Users\andre\Documents\chocAdminSide\WindowsFormsApp1\ExcelLibrary\obj\Debug\ExcelLibrary.pdb

@@ -78,10 +78,14 @@ namespace WindowsFormsApp2
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            // TODO: This line of code loads data into the 'dVchocDataSet2.tbl_ClockIn' table. You can move, or remove it, as needed.
+            this.tbl_ClockInTableAdapter.Fill(this.dVchocDataSet2.tbl_ClockIn);
+            // TODO: This line of code loads data into the 'dVchocDataSet1.tbl_ClockOut' table. You can move, or remove it, as needed.
+            this.tbl_ClockOutTableAdapter.Fill(this.dVchocDataSet1.tbl_ClockOut);
             // TODO: This line of code loads data into the 'database_DVchocolateDataSet1.tbl_Clockin' table. You can move, or remove it, as needed.
-            this.tbl_ClockinTableAdapter.Fill(this.database_DVchocolateDataSet1.tbl_Clockin);
+           // this.tbl_ClockinTableAdapter.Fill(this.database_DVchocolateDataSet1.tbl_Clockin);
             // TODO: This line of code loads data into the 'database_DVchocolateDataSet.tbl_ClockOut' table. You can move, or remove it, as needed.
-            this.tbl_ClockOutTableAdapter.Fill(this.database_DVchocolateDataSet.tbl_ClockOut);
+          //  this.tbl_ClockOutTableAdapter.Fill(this.database_DVchocolateDataSet.tbl_ClockOut);
 
         }
     }
